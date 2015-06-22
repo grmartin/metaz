@@ -7,15 +7,15 @@
 	<key>CFBundleExecutable</key>
 	<string>${EXECUTABLE_NAME}</string>
 	<key>CFBundleGetInfoString</key>
-	<string>Copyright 2009-2012 Brian Olsen</string>
+	<string>Copyright 2009-2012 Brian Olsen, 2015 Glenn R. Martin</string>
 	<key>CFBundleIdentifier</key>
-	<string>org.maven-group.${PRODUCT_NAME:identifier}</string>
+	<string>com.arg1arg2.${PRODUCT_NAME:identifier}</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
 	<string>${PRODUCT_NAME}</string>
 	<key>CFBundlePackageType</key>
-	<string>FMWK</string>
+	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>RELEASE</string>
 	<key>CFBundleSignature</key>
@@ -25,6 +25,6 @@
 	<key>BuildId</key>
 	<string>BUILDID</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © 2009-2012, Brian Olsen</string>
+	<string>Copyright © 2009-2012, Brian Olsen, 2015 Glenn R. Martin</string>
 </dict>
 </plist>

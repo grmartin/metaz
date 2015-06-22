@@ -10,43 +10,31 @@
 	<string>MetaZ</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2AA322B6-E65C-4375-B093-9F470CA5F90D</key>
-		<string>ssh://github.com/griff/metaz.git</string>
-		<key>4C8E206A-9BB5-46DA-BC9A-B7170EC3128E</key>
-		<string>https://github.com/pokeb/asi-http-request.git</string>
+		<key>3C948D453FAB2CA9CE45C9309D054828BB58F224</key>
+		<string>github.com:grmartin/metaz.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>MetaZ.xcodeproj/project.xcworkspace</string>
+	<string>MetaZ.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2AA322B6-E65C-4375-B093-9F470CA5F90D</key>
+		<key>3C948D453FAB2CA9CE45C9309D054828BB58F224</key>
 		<string>../..</string>
-		<key>4C8E206A-9BB5-46DA-BC9A-B7170EC3128E</key>
-		<string>../../Externals/asi-http-request</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>ssh://github.com/griff/metaz.git</string>
+	<string>github.com:grmartin/metaz.git</string>
 	<key>IDESourceControlProjectVersion</key>
-	<integer>110</integer>
+	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2AA322B6-E65C-4375-B093-9F470CA5F90D</string>
+	<string>3C948D453FAB2CA9CE45C9309D054828BB58F224</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>4C8E206A-9BB5-46DA-BC9A-B7170EC3128E</string>
+			<string>3C948D453FAB2CA9CE45C9309D054828BB58F224</string>
 			<key>IDESourceControlWCCName</key>
-			<string>asi-http-request</string>
-		</dict>
-		<dict>
-			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
-			<string>public.vcs.git</string>
-			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2AA322B6-E65C-4375-B093-9F470CA5F90D</string>
-			<key>IDESourceControlWCCName</key>
-			<string>MetaZ</string>
+			<string>metaz</string>
 		</dict>
 	</array>
 </dict>
