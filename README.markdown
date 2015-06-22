@@ -1,3 +1,8 @@
+This project fork is a quickie attempt to bring this project up to date, this readme is presently here for informational purposes only and is not to be considered accurate until this message is removed.
+-- 
+BEGIN OLD README 
+--
+
 # Introduction
 
 MetaZ is an mp4 meta-data editor for OS X.  
